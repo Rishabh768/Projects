@@ -1,0 +1,64 @@
+body{
+    background-image: linear-gradient(hsl(273, 75%, 66%),hsl(240, 73%, 65%)
+    );
+   
+    
+
+}
+.container{
+     left: 50%;
+     top: 50%;
+     position: absolute;
+     transform: translate(-50%,-50%);
+    border-radius: 20px;
+    width: 60%;
+    height:60%;
+   background-color: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: 0px 10px 50px rgba(0,0,0,.7);
+}
+
+.imagecontainer{
+    
+     width: 30%;
+     height: 50%;
+    position: absolute;
+    margin-top: 120px;
+    background-image: url(images.jpg);   
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.faq{
+    float: right;
+    margin-top: 3%;
+    margin-right: 17%;
+    font-family: 'kumbh sans';
+    width: 35%;
+    
+}
+.questioncontainer{
+    display:flex inline-flex; 
+    color: hsl(240, 6%, 50%);
+margin-right: 17%;
+position: relative;
+float: right;
+width: 35%;
+height: auto;
+text-align: left;
+font-family: 'kumbh sans';
+font-weight: 400;
+
+}
+
+#hr{
+max-width: 100%;
+color:  hsl(240, 5%, 91%);
+}
+
+.questioncontainer p:hover{
+color:hsl(237, 12%, 33%);
+font-size:17px;
+font-family: 'kumbh sans';
+font-weight: 700;
+}
