@@ -49,7 +49,7 @@ height: auto;
 text-align: left;
 font-family: 'kumbh sans';
 font-weight: 400;
-font-size: 20px;
+font-size: 17px;
 
 }
 
@@ -60,7 +60,7 @@ color:  hsl(240, 5%, 91%);
 
 .questioncontainer details:hover{
 color: orangered;
-font-size:22px;
+font-size:20px;
 font-family: 'kumbh sans';
 font-weight: 700;
 }
