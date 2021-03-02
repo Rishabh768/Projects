@@ -64,3 +64,8 @@ font-size:20px;
 font-family: 'kumbh sans';
 font-weight: 700;
 }
+p{
+    color :color: hsl(240, 6%, 50%);
+    font-size:15px;
+    font-weight:400;
+}
